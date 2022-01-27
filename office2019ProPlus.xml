@@ -1,0 +1,9 @@
+<Configuration>
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2019">
+      <Product ID="ProPlus2019Volume">
+         <Language ID="en-us" />
+	<Language ID="he-il" />
+      </Product>
+  </Add>
+  <Display Level="Full" AcceptEULA="TRUE" />  
+</Configuration>
